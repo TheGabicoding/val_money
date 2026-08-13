@@ -38,5 +38,29 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "IPCA + 6%",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Proteção contra inflação no longo prazo"
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Rendimento mensal variável",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca renda passiva mensal"
+  },
+  {
+    "nome": "ETF BOVA11",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Acompanha o Ibovespa",
+    "aporte_minimo": 110.00,
+    "indicado_para": "Diversificação simples em ações brasileiras"
   }
 ]

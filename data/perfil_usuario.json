@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Joao Silva",
+    "idade": 32,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 5000.00,
+    "perfil_investidor": "moderado",
+    "objetivo_principal": "Construir reserva de emergencia",
+    "patrimonio_total": 15000.00,
+    "reserva_emergencia_atual": 10000.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Completar reserva de emergencia",
+        "valor_necessario": 15000.00,
+        "prazo": "2026-06"
+      }
+    ]
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 25,
+    "profissao": "Vendedora",
+    "renda_mensal": 2000.00,
+    "perfil_investidor": "nao_investidor",
+    "objetivo_principal": "Aprender educacao financeira",
+    "patrimonio_total": 0.00,
+    "reserva_emergencia_atual": 0.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Quitar dividas do cartao",
+        "valor_necessario": 1000.00,
+        "prazo": "2026-12"
+      }
+    ]
+  },
+  {
+    "nome": "Carlos Eduardo",
+    "idade": 41,
+    "profissao": "Engenheiro",
+    "renda_mensal": 12000.00,
+    "perfil_investidor": "arrojado",
+    "objetivo_principal": "Multiplicacao de patrimonio",
+    "patrimonio_total": 120000.00,
+    "reserva_emergencia_atual": 30000.00,
+    "aceita_risco": true,
+    "metas": [
+      {
+        "meta": "Aposentadoria",
+        "valor_necessario": 500000.00,
+        "prazo": "2035-01"
+      }
+    ]
+  },
+  {
+    "nome": "Lucas Mendes",
+    "idade": 19,
+    "profissao": "Estudante",
+    "renda_mensal": 800.00,
+    "perfil_investidor": "nao_investidor",
+    "objetivo_principal": "Conhecer sobre investimentos",
+    "patrimonio_total": 100.00,
+    "reserva_emergencia_atual": 100.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Juntar primeiro mil reais",
+        "valor_necessario": 1000.00,
+        "prazo": "2027-01"
+      }
+    ]
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 29,
+    "profissao": "Professora",
+    "renda_mensal": 3500.00,
+    "perfil_investidor": "conservador",
+    "objetivo_principal": "Sair da poupanca",
+    "patrimonio_total": 5000.00,
+    "reserva_emergencia_atual": 5000.00,
+    "aceita_risco": false,
+    "metas": [
+      {
+        "meta": "Comprar carro",
+        "valor_necessario": 30000.00,
+        "prazo": "2028-12"
+      }
+    ]
+  }
+]

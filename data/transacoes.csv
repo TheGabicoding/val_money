@@ -1,11 +1,50 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+data,cliente,descricao,categoria,valor,tipo
+2025-10-01,Joao Silva,Salário,receita,5000.00,entrada
+2025-10-02,Joao Silva,Aluguel,moradia,1200.00,saida
+2025-10-03,Joao Silva,Supermercado,alimentacao,450.00,saida
+2025-10-05,Joao Silva,Netflix,lazer,55.90,saida
+2025-10-07,Joao Silva,Farmácia,saude,89.00,saida
+2025-10-10,Joao Silva,Restaurante,alimentacao,120.00,saida
+2025-10-12,Joao Silva,Uber,transporte,45.00,saida
+2025-10-15,Joao Silva,Conta de Luz,moradia,180.00,saida
+2025-10-20,Joao Silva,Academia,saude,99.00,saida
+2025-10-25,Joao Silva,Combustível,transporte,250.00,saida
+2025-10-01,Ana Souza,Salário,receita,2000.00,entrada
+2025-10-02,Ana Souza,Internet,moradia,99.90,saida
+2025-10-05,Ana Souza,Pagamento Cartão,dividas,600.00,saida
+2025-10-10,Ana Souza,Supermercado,alimentacao,350.00,saida
+2025-10-12,Ana Souza,iFood,alimentacao,45.00,saida
+2025-10-15,Ana Souza,Passagem Ônibus,transporte,150.00,saida
+2025-10-18,Ana Souza,Smart Fit,saude,119.90,saida
+2025-10-22,Ana Souza,Luz,moradia,120.00,saida
+2025-10-26,Ana Souza,Farmácia,saude,65.00,saida
+2025-10-01,Carlos Eduardo,Salário,receita,12000.00,entrada
+2025-10-05,Carlos Eduardo,Condomínio,moradia,1500.00,saida
+2025-10-08,Carlos Eduardo,Supermercado,alimentacao,1200.00,saida
+2025-10-12,Carlos Eduardo,Restaurante,alimentacao,450.00,saida
+2025-10-15,Carlos Eduardo,Combustível,transporte,400.00,saida
+2025-10-18,Carlos Eduardo,Personal Trainer,saude,350.00,saida
+2025-10-20,Carlos Eduardo,Seguro Carro,transporte,300.00,saida
+2025-10-22,Carlos Eduardo,Conta de Luz,moradia,350.00,saida
+2025-10-25,Carlos Eduardo,Vinhos,lazer,250.00,saida
+2025-10-28,Carlos Eduardo,Petshop,gastos_extras,180.00,saida
+2025-10-05,Lucas Mendes,Bolsa Estágio,receita,800.00,entrada
+2025-10-06,Lucas Mendes,Steam,lazer,45.00,saida
+2025-10-08,Lucas Mendes,Lanche Faculdade,alimentacao,120.00,saida
+2025-10-10,Lucas Mendes,Riot Games,lazer,34.90,saida
+2025-10-12,Lucas Mendes,Dino's Burg,alimentacao,35.00,saida
+2025-10-15,Lucas Mendes,Spotify,lazer,21.90,saida
+2025-10-18,Lucas Mendes,Artigos Esportivos,lazer,150.00,saida
+2025-10-20,Lucas Mendes,Passagem Ônibus,transporte,100.00,saida
+2025-10-25,Lucas Mendes,Açaí,alimentacao,25.00,saida
+2025-10-28,Lucas Mendes,Cinema,lazer,40.00,saida
+2025-10-02,Mariana Costa,Salário,receita,3500.00,entrada
+2025-10-05,Mariana Costa,Aluguel,moradia,1000.00,saida
+2025-10-08,Mariana Costa,Conta de Água,moradia,75.00,saida
+2025-10-10,Mariana Costa,Conta de Luz,moradia,140.00,saida
+2025-10-12,Mariana Costa,Livros,educacao,150.00,saida
+2025-10-15,Mariana Costa,Uber,transporte,80.00,saida
+2025-10-18,Mariana Costa,Supermercado,alimentacao,480.00,saida
+2025-10-20,Mariana Costa,Pizzaria,alimentacao,85.00,saida
+2025-10-25,Mariana Costa,Farmácia,saude,90.00,saida
+2025-10-28,Mariana Costa,Plano de Celular,moradia,55.00,saida
