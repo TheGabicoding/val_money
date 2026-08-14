@@ -1,3 +1,6 @@
+import os
+from google import genai
+import streamlit as st
 import json
 from operator import index
 import pandas as pd
@@ -38,3 +41,21 @@ REGRAS:
 7. Busque usar os dados fornecidos para dar exemplos personalizados.
 8. Responda sempre de maneira objetiva e simples, em poucas linhas
 """
+
+client = genai.Client(api_key=os.environ["sua_chave_de_api_aqui"])
+
+def pergunta(mensagem):
+    resposta = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=f"{SYSTEM_PROMPT}\n\n{contexto}\n\nUSUÁRIO PERGUNTOU: {mensagem}",
+    )
+    return resposta.text
+
+st.title("Val - Agente Educador Financeiro")
+
+if pergunta := st.text_input("Digite sua pergunta sobre finanças:"):
+    st.chat_message("user").write(pergunta)
+    with st.spinner("Aguarde enquanto o Val responde..."):
+        st.chat_message("assistant").write(pergunta(pergunta))
+
+    
