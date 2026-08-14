@@ -28,6 +28,8 @@ if user_input:
                 mensagem_usuario=user_input, 
                 interaction_id=st.session_state.interaction_id
             )
+            #corrige erros de formatação ao usar cifrão.
+            resposta_val = resposta_val.replace("$", "\\$")
             
             # 3. Atualiza o ID da interação para a PRÓXIMA mensagem
             st.session_state.interaction_id = novo_id
