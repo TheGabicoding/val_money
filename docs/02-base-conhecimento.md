@@ -6,13 +6,13 @@
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Ter uma noção do contexto das interações para evitar repetitividade |
 | `perfil_usuario.json` | JSON | Tornar a experiência mais alinhada e personalizada com o usuário |
-| `produtos_financeiros.json` | JSON | Ensinar diferentes tipos de investimentos ao usuário |
+| `produtos_financeiros.json` | JSON | Ensinar ou recomendar diferentes tipos de investimentos ao usuário |
 | `transacoes.csv` | CSV | Analisar perfil de gastos e padrão de transferências do usuário |
 
 
 ## Adaptações nos Dados
 
-Os dados mockados foram expandidos com auxílio de inteligência artificial para criar 4 novos perfis de usuário com 4 diferentes tipos de gastos, remuneração e históricos. Além disso foram adicionados alguns produtos financeiros.
+Os dados mockados foram expandidos com auxílio de inteligência artificial para criar 4 novos perfis de usuário com 4 diferentes tipos de gastos, remuneração e históricos. Além disso foram adicionados alguns produtos financeiros. Além de uma alteração para salvar novos perfis de usuário.
 
 ---
 
@@ -20,7 +20,7 @@ Os dados mockados foram expandidos com auxílio de inteligência artificial para
 
 ### Como os dados são carregados?
 
-Os dados podem ser inseridos diretamente no prompt(colando os dados para o agente) ou podem ser importados com o script python a seguir:
+Os dados podem ser inseridos diretamente no prompt(colando/informando os dados para o agente) ou podem ser importados com o script python a seguir:
 ```python
 import pandas as pd
 import json

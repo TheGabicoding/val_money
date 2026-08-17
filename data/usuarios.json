@@ -1,0 +1,37 @@
+[
+  {
+    "username": "joao123",
+    "senha_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "perfil_id": "perfil_joao"
+  },
+  {
+    "username": "ana123",
+    "senha_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "perfil_id": "perfil_ana"
+  },
+  {
+    "username": "carlos123",
+    "senha_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "perfil_id": "perfil_carlos"
+  },
+  {
+    "username": "lucas123",
+    "senha_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "perfil_id": "perfil_lucas"
+  },
+  {
+    "username": "mariana123",
+    "senha_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "perfil_id": "perfil_mariana"
+  },
+  {
+    "username": "robertinho",
+    "senha_hash": "d90cb970a85fecd318e615eb3e3020362a2c06ea5410bcd1fbc950c6dd333605",
+    "perfil_id": "524b5718-3210-436c-b295-5e061799485e"
+  },
+  {
+    "username": "caue123",
+    "senha_hash": "e5f1140ce8871103ee5f71b81a2d982d29083122b4a000d70c954ce893107c69",
+    "perfil_id": "1dfb9c0e-9be8-4827-8244-dce2db7ee6aa"
+  }
+]
