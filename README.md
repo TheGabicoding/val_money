@@ -84,7 +84,7 @@ Siga os passos abaixo para rodar o educador financeiro na sua máquina.
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/TheGabicoding/dio-lab-bia-do-futuro.git
+   git clone https://github.com/TheGabicoding/val_money.git
    cd dio-lab-bia-do-futuro
    ```
 
