@@ -105,6 +105,8 @@ Siga os passos abaixo para rodar o educador financeiro na sua máquina.
 4. **Inicie a interface web**
    ```bash
    streamlit run src/app.py
+   ou
+   python -m streamlit run src/app.py
    ```
    O Streamlit abrirá automaticamente a aplicação no seu navegador padrão (`http://localhost:8501`).
 
