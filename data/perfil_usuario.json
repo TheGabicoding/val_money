@@ -41,8 +41,8 @@
     "profissao": "Engenheiro",
     "renda_mensal": 12000.0,
     "perfil_investidor": "arrojado",
-    "patrimonio_total": 120000.0,
-    "reserva_emergencia_atual": 30000.0,
+    "patrimonio_total": 150000.0,
+    "reserva_emergencia_atual": 60000.0,
     "aceita_risco": true,
     "metas": [
       {

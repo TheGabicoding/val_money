@@ -42,7 +42,7 @@ Ao invés de formulários longos, o Val interage com você no chat: se você diz
 
 > *A interface foi desenhada visando limpeza visual e facilidade. A barra lateral concentra os números frios, enquanto o chat concentra o acolhimento do educador.*
 
-*(Substitua este espaço por um print real da sua tela rodando a aplicação: `assets/screenshot.png`)*
+![Interface principal](assets/screenshot2.png)
 
 ---
 

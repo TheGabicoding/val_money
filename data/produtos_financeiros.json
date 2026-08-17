@@ -36,7 +36,7 @@
     "categoria": "fundo",
     "risco": "alto",
     "rentabilidade": "Variável",
-    "aporte_minimo": 100.00,
+    "aporte_minimo": "variável",
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   },
   {
@@ -62,5 +62,29 @@
     "rentabilidade": "Acompanha o Ibovespa",
     "aporte_minimo": 110.00,
     "indicado_para": "Diversificação simples em ações brasileiras"
+  },
+  {
+    "nome": "Ações Apple (AAPL34)",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 45.00,
+    "indicado_para": "Investidores que buscam exposição direta ao mercado global de tecnologia e smartphones"
+  },
+  {
+    "nome": "Ações Microsoft (MSFT34)",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 85.00,
+    "indicado_para": "Participação no setor de software, inteligência artificial e desenvolvimento de jogos digitais"
+  },
+  {
+    "nome": "Ações Toyota (TMCO34)",
+    "categoria": "renda_variavel",
+    "risco": "alto",
+    "rentabilidade": "Variável",
+    "aporte_minimo": 55.00,
+    "indicado_para": "Diversificação com foco na indústria automotiva global e fabricação de veículos"
   }
 ]
